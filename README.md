@@ -1,6 +1,4 @@
-# Denial-of-Service-Attack-Simulation-Mitigation
-# Denial-of-Service Attack Simulation & Mitigation
-
+# Denial-of-Service-Attack-Simulation-Mitigatio
 This project demonstrates a controlled Denial-of-Service (DoS) attack simulation in a virtual lab using Kali Linux and Windows 7, applying the Penetration Testing Execution Standard (PTES) methodology.
 
 ## 🔍 Project Overview
@@ -31,15 +29,3 @@ This project demonstrates a controlled Denial-of-Service (DoS) attack simulation
 
 This project was conducted in a **safe lab environment** for academic purposes only. No real systems or users were harmed. Do **NOT** use these methods on unauthorized systems.
 
----
-
-## 📷 Screenshots
-
-![DoS Simulation](Demonstration/screenshots/attack_simulation.png)
-
----
-
-## 📚 References
-
-- PTES: https://www.pentest-standard.org/
-- Metasploit Docs: https://docs.metasploit.com/
